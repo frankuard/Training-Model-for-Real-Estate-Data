@@ -54,7 +54,7 @@ The dataset contains 14 features describing neighborhoods:
 Created a new feature:
 
 ```python
-housing['TPR'] = housing['TAX'] / housing['RM']
+housing['TPR'] = housing['TAX'] / housing['RM']```
 
 ### 3. Data Splitting
 
@@ -102,7 +102,7 @@ Pipeline([
     ('imputer', SimpleImputer(strategy='median')),
     ('scaler', StandardScaler()),
     ('model', RandomForestRegressor())
-])
+])```
 
 ## 🤖 Models Used
 
