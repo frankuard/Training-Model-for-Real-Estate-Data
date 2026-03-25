@@ -145,11 +145,12 @@ dump(pipeline, "Real_Estate_Data.joblib")
 ## 📂 Project Structure
 
 
-Real-Estate-ML/
-│── data.csv
-│── notebook.ipynb
-│── Real_Estate_Data.joblib
-│── README.md´
+Real-Estate-ML
+
+─ data.csv
+─ notebook.ipynb
+─ Real_Estate_Data.joblib
+─ README.md´
 
 ---
 
