@@ -55,7 +55,6 @@ Created a new feature:
 
 ```python
 housing['TPR'] = housing['TAX'] / housing['RM']
-    ```
 
 ### 3. Data Splitting
 
