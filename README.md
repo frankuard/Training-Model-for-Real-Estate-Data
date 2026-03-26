@@ -43,6 +43,16 @@ The dataset contains 14 features describing neighborhoods:
 
 ---
 
+## 📦 Install Dependencies
+
+To install all required Python libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## 🔄 Project Workflow
 
 ### 1. Data Exploration
